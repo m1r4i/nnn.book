@@ -13,4 +13,5 @@
 
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
-* [スクーリングの席は自由？](schooling/sukringunoha.md)
+* [スクーリングの席は自由？](schooling/scooling-seat.md)
+* [N予備校のスクリーンショットをSNSに公開すると起きること](schooling/nyobikou-screenshot-publish.md)
