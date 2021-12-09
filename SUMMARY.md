@@ -10,8 +10,9 @@
 ## 気をつけるべき事 <a href="#warning" id="warning"></a>
 
 * [何回注意を受けたら反省文？](warning/howmeny-writereminder.md)
+* [N予備校のスクリーンショットをSNSに公開すると起きること](warning/nyobikou-screenshot-publish.md)
+* [反省文について](warning/nitsuite.md)
 
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
 * [スクーリングの席は自由？](schooling/scooling-seat.md)
-* [N予備校のスクリーンショットをSNSに公開すると起きること](schooling/nyobikou-screenshot-publish.md)
