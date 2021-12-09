@@ -10,3 +10,7 @@
 ## 気をつけるべき事 <a href="#warning" id="warning"></a>
 
 * [何回注意を受けたら反省文？](warning/howmeny-writereminder.md)
+
+## スクーリングについて <a href="#schooling" id="schooling"></a>
+
+* [スクーリングの席は自由？](schooling/sukringunoha.md)
