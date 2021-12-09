@@ -4,7 +4,7 @@
 
 ## レポート・オンライン授業について <a href="#reportonline" id="reportonline"></a>
 
-* [もしオンライン授業などを忘れたらどうなる？](reportonline/forget-onlineclass.md)
+* [もしオンライン授業を忘れたらどうなる？](reportonline/forget-onlineclass.md)
 * [レポートはどれくらいで終わる？](reportonline/report-howlong.md)
 
 ## 気をつけるべき事 <a href="#warning" id="warning"></a>
