@@ -16,3 +16,7 @@
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
 * [スクーリングの席は自由？](schooling/scooling-seat.md)
+
+## 通学コースについて <a href="#commute" id="commute"></a>
+
+* [出席率って成績に関わるの？](commute/Attendance-rate.md)
