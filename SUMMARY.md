@@ -19,4 +19,6 @@
 
 ## 通学コースについて <a href="#commute" id="commute"></a>
 
-* [出席率って成績に関わるの？](commute/Attendance-rate.md)
+* [出席率って成績に関わるの？](commute/attendance-rate.md)
+
+* [通学定期券は購入できるの？](commute/commuter-pass.md)
